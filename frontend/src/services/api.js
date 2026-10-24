@@ -1,4 +1,4 @@
-const API_URL = "https://azure-rsb3.onrender.com";
+const API_URL = "https://azure-rsb3.onrender.com/api";
 
 export async function getQuestions() {
   const response = await fetch(
